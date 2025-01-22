@@ -1,4 +1,4 @@
-# IntentKit
+https://github.com/crestalnetwork/intentkit.git# IntentKit
 
 IntentKit is an autonomous agent framework that enables the creation and management of AI agents with various capabilities including blockchain interactions, social media management, and custom skill integration.
 
